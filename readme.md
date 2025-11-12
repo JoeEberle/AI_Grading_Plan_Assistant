@@ -4,11 +4,7 @@
 
 ## Utilizing an AI Assistant in innovative ways to enhance the civil engineering process of grading a property.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 # 🏗️ AI Grading Plan Assistant
 
 #### An AI first assistant for Grading projects
@@ -101,7 +97,7 @@ arXiv
 ![Image](subdivision.png)
 
 
-Welcome to the solution **Ai Grading Plan Assistant** - an example for your projects
+Welcome to the solution **Ai Grading Plan Assistant** 
 
 Utilizing an AI Assistant in innovative ways to enhance the civil engineering process of grading a property.
 
@@ -198,13 +194,7 @@ arXiv
 ![Image](subdivision.png)
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 

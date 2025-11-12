@@ -26,3 +26,59 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-10 17:08:13,009 - INFO - START AI_Grading_Plan_Assistant =============================================
+2025-11-10 17:08:13,009 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-10 17:08:13
+2025-11-10 17:08:13,009 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
+2025-11-10 17:08:13,009 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
+2025-11-10 17:08:13,137 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.13
+2025-11-10 17:08:13,137 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-10 17:08:13
+2025-11-10 17:08:13,137 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.13
+2025-11-10 17:08:13,138 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
+2025-11-10 17:08:13,138 - INFO - END AI_Grading_Plan_Assistant =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-10 17:08:49,885 - INFO - START AI_Grading_Plan_Assistant =============================================
+2025-11-10 17:08:49,887 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-10 17:08:49
+2025-11-10 17:08:49,887 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
+2025-11-10 17:08:49,887 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
+2025-11-10 17:08:49,972 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.09
+2025-11-10 17:08:49,972 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-10 17:08:49
+2025-11-10 17:08:49,972 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.09
+2025-11-10 17:08:49,972 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
+2025-11-10 17:08:49,972 - INFO - END AI_Grading_Plan_Assistant =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-10 17:20:14,521 - INFO - START AI_Grading_Plan_Assistant =============================================
+2025-11-10 17:20:14,521 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-10 17:20:14
+2025-11-10 17:20:14,521 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
+2025-11-10 17:20:14,521 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
+2025-11-10 17:20:14,630 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.11
+2025-11-10 17:20:14,630 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-10 17:20:14
+2025-11-10 17:20:14,630 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.11
+2025-11-10 17:20:14,630 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
+2025-11-10 17:20:14,630 - INFO - END AI_Grading_Plan_Assistant =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-12 10:16:48,656 - INFO - START AI_Grading_Plan_Assistant =============================================
+2025-11-12 10:16:48,656 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-12 10:16:48
+2025-11-12 10:16:48,656 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
+2025-11-12 10:16:48,657 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
+2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.15
+2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-12 10:16:48
+2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.15
+2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
+2025-11-12 10:16:48,804 - INFO - END AI_Grading_Plan_Assistant =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

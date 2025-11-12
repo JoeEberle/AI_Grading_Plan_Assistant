@@ -27,12 +27,25 @@ This augmentation enables engineers to focus on higher-value tasks such as desig
 and quality assurance rather than manual data handling. By leveraging AI, firms can improve workforce productivity,
 reduce rework, and deliver safer, more sustainable, and cost-effective development projects.
 
-### 🌐 Establishing a Shareable Knowledge Corpus
-Every subdivision, township, and municipality maintains unique grading requirements, review procedures, and documentation formats that can change frequently and differ widely between jurisdictions. Maintaining awareness of these variations is an ongoing challenge, particularly as projects scale and regulations evolve.  
-Creating a **shareable AI-driven knowledge corpus** allows this expertise—local grading standards, design templates, regulatory thresholds, and field insights—to be captured, organized, and continuously updated across teams. Such a system ensures that both experienced and newly onboarded staff have immediate access to consistent, validated knowledge, reducing dependency on individual expertise.  
-In times of staff turnover or shortages, AI can further **augment capacity** by guiding plan preparation, flagging compliance gaps, and helping new engineers apply community-specific standards with confidence and accuracy.
+### 🌐 Learning Guidelines  
+
+Every subdivision, township, and municipality maintains unique grading requirements, review procedures, and documentation formats
+that can change frequently and differ widely between jurisdictions. Maintaining awareness of these variations is an ongoing
+challenge, particularly as projects scale and regulations evolve.  
+
+### 🧠 Creating a **shareable AI-driven knowledge corpus** and Best Practices
+
+Creating a **shareable AI-driven knowledge corpus** allows this expertise—local grading standards, design templates, regulatory 
+thresholds, and field insights—to be captured, organized, and continuously updated across teams.
+
+Such a system ensures that both experienced and newly onboarded staff have immediate access to consistent, validated knowledge,
+reducing dependency on individual expertise.  In times of staff turnover or shortages, AI can further **augment capacity** by 
+guiding plan preparation, flagging compliance gaps, and helping new engineers apply community-specific standards with 
+confidence and accuracy.
 
 
+
+![Image](grading_workflow.png)
 
 
 

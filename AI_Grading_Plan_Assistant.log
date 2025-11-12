@@ -1,9 +1,9 @@
-2025-11-12 10:16:48,656 - INFO - START AI_Grading_Plan_Assistant =============================================
-2025-11-12 10:16:48,656 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-12 10:16:48
-2025-11-12 10:16:48,656 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
-2025-11-12 10:16:48,657 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
-2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.15
-2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-12 10:16:48
-2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.15
-2025-11-12 10:16:48,804 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
-2025-11-12 10:16:48,804 - INFO - END AI_Grading_Plan_Assistant =============================================
+2025-11-12 10:58:12,699 - INFO - START AI_Grading_Plan_Assistant =============================================
+2025-11-12 10:58:12,699 - INFO - START AI_Grading_Plan_Assistant Start Time = 2025-11-12 10:58:12
+2025-11-12 10:58:12,699 - INFO - AI_Grading_Plan_Assistant Step 0 - Initialize the configuration file parser
+2025-11-12 10:58:12,700 - INFO - Process AI_Grading_Plan_Assistant Step 0 - Initializing and starting Logging Process.
+2025-11-12 10:58:12,827 - INFO - PERFORMANCE AI_Grading_Plan_Assistant The total process duration was:0.13
+2025-11-12 10:58:12,828 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Stop Time = 2025-11-12 10:58:12
+2025-11-12 10:58:12,828 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Short process duration less than 3 Seconds:0.13
+2025-11-12 10:58:12,828 - INFO - PERFORMANCE AI_Grading_Plan_Assistant Performance optimization is not reccomended
+2025-11-12 10:58:12,828 - INFO - END AI_Grading_Plan_Assistant =============================================
